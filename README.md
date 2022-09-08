@@ -6,6 +6,7 @@ Members are able to subscribe to the specific validator, in the next report the 
 # How to use
 
 The bot have 2 commands: 
+
 `!subscribe <moniker-name>` - to subscribe on the validator
 
 `!unsubscribe <moniker-name>` -  to unsubcribe 
@@ -15,7 +16,7 @@ The bot have 2 commands:
 ### prerequires
 - create a discord bot, to get it's token
 - get the room id where bot will write
-- 
+
 ### Install
 
 ```bash
@@ -42,6 +43,4 @@ node index.js # it will process subscribe/unsibscribe commands
 
 # run alert process
 node alert.js # you can paste it in your's server crontab configuration
-
-
 ```
