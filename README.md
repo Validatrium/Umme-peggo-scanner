@@ -1,4 +1,4 @@
-# Umme-peggo-scanner# How it works
+# How it works
 
 This bot could be added to the discord server, and alert it's members about validators which have low "peggod" performance.
 Members are able to subscribe to the specific validator, in the next report the bot will mention them, so they will not lose the notification.
@@ -7,6 +7,7 @@ Members are able to subscribe to the specific validator, in the next report the 
 
 The bot have 2 commands: 
 `!subscribe <moniker-name>` - to subscribe on the validator
+
 `!unsubscribe <moniker-name>` -  to unsubcribe 
 
 # Install steps
